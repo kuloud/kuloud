@@ -2,13 +2,13 @@
 
 岁月予我的厚待，是眼前广袤的世界。
 
-**About me**
+**关于我**
 
-- 💼 Android Engineer
-- 💬 Ask me about anything [here](https://github.com/kuloud/kuloud/issues)
-- 📫 How to reach me: kuloud@outlook.com
+- 💼 安卓开发工程师
+- 💬 欢迎咨询 [👇点这里](https://github.com/kuloud/kuloud/issues)
+- 📫 邮件: kuloud@outlook.com
 
-| <a href="https://github.com/kuloud"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kuloud&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kuloud's github stats" /></a> | <a href="https://github.com/kuloud"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuloud&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/kuloud"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kuloud&show_icons=true&include_all_commits=true&hide_border=true" alt="Kuloud's github stats" /></a> | <a href="https://github.com/kuloud"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuloud&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
