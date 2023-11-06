@@ -2,9 +2,6 @@
 
 岁月予我的厚待，是眼前广袤的世界。
 
-- 📫 邮件: kuloud@outlook.com
-
-## Products
 <a href="https://www.producthunt.com/posts/flove?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-flove" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=423716&theme=light" alt="Flove - Love&#0044;&#0032;yourself&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <!--
