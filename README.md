@@ -6,7 +6,6 @@
 | Package | Pub | Points | Popularity | Issues | Pull requests |
 |---------|-----|--------|------------|--------|---------------|
 | [amap_map](https://github.com/kuloud/amap_map) | [![pub package](https://img.shields.io/pub/v/amap_map.svg)](https://pub.dev/packages/amap_map) | [![pub points](https://img.shields.io/pub/points/amap_map)](https://pub.dev/packages/amap_map/score) | [![popularity](https://img.shields.io/pub/popularity/amap_map)](https://pub.dev/packages/amap_map/score) | [![GitHub issues by-label](https://img.shields.io/github/issues/kuloud/amap_map?label=)](https://github.com/kuloud/amap_map/issues) | [![GitHub pull requests by-label](https://img.shields.io/github/issues-pr/kuloud/amap_map?label=)](https://github.com/kuloud/amap_map/pulls) |
-| [cactus_locator](https://github.com/kuloud/cactus_locator) | [![pub package](https://img.shields.io/pub/v/cactus_locator.svg)](https://pub.dev/packages/cactus_locator) | [![pub points](https://img.shields.io/pub/points/cactus_locator)](https://pub.dev/packages/cactus_locator/score) | [![popularity](https://img.shields.io/pub/popularity/cactus_locator)](https://pub.dev/packages/cactus_locator/score) | [![GitHub issues by-label](https://img.shields.io/github/issues/kuloud/cactus_locator/p:%20cactus_locator?label=)](https://github.com/kuloud/flutter/labels/p%3A%20cactus_locator) | [![GitHub pull requests by-label](https://img.shields.io/github/issues-pr/kuloud/cactus_locator?label=)](https://github.com/kuloud/cactus_locator/pulls) |
 
 
 ## Products
