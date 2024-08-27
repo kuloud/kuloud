@@ -8,12 +8,6 @@
 | [amap_map](https://github.com/kuloud/amap_map) | [![pub package](https://img.shields.io/pub/v/amap_map.svg)](https://pub.dev/packages/amap_map) | [![pub points](https://img.shields.io/pub/points/amap_map)](https://pub.dev/packages/amap_map/score) | [![popularity](https://img.shields.io/pub/popularity/amap_map)](https://pub.dev/packages/amap_map/score) | [![GitHub issues by-label](https://img.shields.io/github/issues/kuloud/amap_map?label=)](https://github.com/kuloud/amap_map/issues) | [![GitHub pull requests by-label](https://img.shields.io/github/issues-pr/kuloud/amap_map?label=)](https://github.com/kuloud/amap_map/pulls) |
 
 
-## Products
-
-### Flove
-<a href="https://www.producthunt.com/posts/flove?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-flove" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=423716&theme=neutral" alt="Flove - Love&#0044;&#0032;yourself | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-
 <!--
 **kuloud/kuloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
